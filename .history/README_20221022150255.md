@@ -18,6 +18,3 @@ In this project, we demonstrated how to build a full-stack app with Next.js and 
 
 We discussed how to create API endpoints and use those endpoints inside various components. We also demonstrated dynamic routing and server-side rendering for static page generation and explained how to dynamically regenerate existing or non-existing static pages.
 
-## Follow-up
-
-Build this project by following the easy steps on this website https://blog.logrocket.com/nextjs-cloud-firestore-full-stack-app-tutorial/
